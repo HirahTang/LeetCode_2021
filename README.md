@@ -5,6 +5,16 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 # January
 
+## Stack & Depth First Searching (DFS)
+
+### Questions:
+
+#### Stack:
+
+155. Min Stack
+
+20. Valid Parentheses
+
 ## Queue & Breadth First Searching (BFS)
 
 ### Questions:
