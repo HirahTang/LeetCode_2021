@@ -5,6 +5,12 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 # January
 
+## Other Practices
+
+### Questions:
+
+1711. Count Good Meals - A variation of Two Sum, Approach with Hash Map produces a run time faster than 94%
+
 ## Stack & Depth First Searching (DFS)
 
 ### Questions:
