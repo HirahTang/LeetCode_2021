@@ -19,9 +19,9 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 155. Min Stack
 
- 20. Valid Parentheses
+_20. Valid Parentheses
 
- 739. Daily Temperatures
+_739. Daily Temperatures
 
 ## Queue & Breadth First Searching (BFS)
 
@@ -35,6 +35,6 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 200. Number of Islands
 
- 752. Open the Lock
+_752. Open the Lock
 
- 279. Perfect Squares
+_279. Perfect Squares
