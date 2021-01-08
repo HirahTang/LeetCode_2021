@@ -21,7 +21,7 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 _20. Valid Parentheses
 
-_739. Daily Temperatures
+_739. Daily Temperatures **
 
 ## Queue & Breadth First Searching (BFS)
 
