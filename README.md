@@ -24,6 +24,13 @@ _20. Valid Parentheses
 _739. Daily Temperatures **
 
 _150. Evaluate Reverse Polish Notation
+
+_剑指offer29 最小的K个数 https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=191&&tqId=36290&rp=1&ru=/activity/oj&qru=/ta/job-code-high-algorithm/question-ranking
+
+#### Depth First Searching:
+
+200. Number of Islands - DFS Approach
+
 ## Queue & Breadth First Searching (BFS)
 
 ### Questions:
@@ -34,7 +41,7 @@ _150. Evaluate Reverse Polish Notation
 
 #### Breadth First Searching:
 
-200. Number of Islands
+200. Number of Islands - BFS Approach
 
 _752. Open the Lock
 
