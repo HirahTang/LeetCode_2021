@@ -57,3 +57,9 @@ https://leetcode.com/problems/clone-graph/discuss/1006629/Python3-simple-solutio
 _752. Open the Lock
 
 _279. Perfect Squares
+
+## Binary Tree
+
+### Questions
+
+122. Path Sum
