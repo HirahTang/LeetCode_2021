@@ -15,6 +15,8 @@ _1716. Calculate Money in Leetcode Bank
 
 _38. Count and Say
 
+_1128. Number of Equivalent Domino Pairs
+
 ## Stack & Depth First Searching (DFS)
 
 ### Questions:
