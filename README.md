@@ -12,6 +12,9 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 1711. Count Good Meals - A variation of Two Sum, Approach with Hash Map produces a run time faster than 94%
 
 _1716. Calculate Money in Leetcode Bank
+
+_38. Count and Say
+
 ## Stack & Depth First Searching (DFS)
 
 ### Questions:
