@@ -46,6 +46,8 @@ https://leetcode.com/problems/clone-graph/discuss/1006629/Python3-simple-solutio
 
 _112. Path Sum **
 
+_690. Employee Importance
+
 ## Queue & Breadth First Searching (BFS)
 
 ### Questions:
@@ -67,3 +69,4 @@ _279. Perfect Squares
 ### Questions
 
 122. Path Sum
+
