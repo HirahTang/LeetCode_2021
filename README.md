@@ -48,6 +48,8 @@ _112. Path Sum **
 
 _690. Employee Importance
 
+_494. Target Sum **
+
 ## Queue & Breadth First Searching (BFS)
 
 ### Questions:
