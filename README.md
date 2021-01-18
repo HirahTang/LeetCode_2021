@@ -64,6 +64,8 @@ _752. Open the Lock
 
 _279. Perfect Squares
 
+_690. Employee Importance
+
 ## Binary Tree
 
 ### Questions
