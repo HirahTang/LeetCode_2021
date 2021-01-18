@@ -39,12 +39,12 @@ _剑指offer29 最小的K个数 https://www.nowcoder.com/practice/6a296eb82cf844
 
 _133. Clone Graph - DFS Approach ** 
 
-_112. Path Sum
-
 https://leetcode.com/problems/clone-graph/discuss/1011431/BFS-and-DFS-Traversal-Solution
 https://leetcode.com/problems/clone-graph/discuss/1001575/Easy-Solution-orDFS-or-Python-or-Stack-or-queue
 https://leetcode.com/problems/clone-graph/discuss/995002/Python-or-90-or-BFS-or-Simple-or-Explained-Clearly-or-Video-Reference
 https://leetcode.com/problems/clone-graph/discuss/1006629/Python3-simple-solution
+
+_112. Path Sum **
 
 ## Queue & Breadth First Searching (BFS)
 
