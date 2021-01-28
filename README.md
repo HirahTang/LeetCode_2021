@@ -33,6 +33,8 @@ _150. Evaluate Reverse Polish Notation
 
 _剑指offer29 最小的K个数 https://www.nowcoder.com/practice/6a296eb82cf844ca8539b57c23e6e9bf?tpId=191&&tqId=36290&rp=1&ru=/activity/oj&qru=/ta/job-code-high-algorithm/question-ranking
 
+_94. Binary Tree Inorder Traversal ** 
+
 #### Depth First Searching:
 
 200. Number of Islands - DFS Approach
