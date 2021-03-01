@@ -3,6 +3,22 @@ My whole practices on LeetCode, during the year of 2021
 
 In January, I start the year of coding from practices on Queue & Stack, Breadth First Searching & Depth First Searching
 
+# Febraury
+
+## Other Practices
+
+### Questions:
+
+1773. Count Items Matching Rules
+
+1774. Closest Dessert Cost (Greedy Search, Back Tracking, Brute Force)***
+
+## Queue & Stack
+
+### Questions:
+
+232. Implement Queue Using Stacks
+
 # January
 
 ## Other Practices
