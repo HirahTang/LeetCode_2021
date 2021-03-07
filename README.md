@@ -11,9 +11,9 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 225. Implement Stack Using Queue
 
-394. Decode String**
+_394. Decode String**
 
-733. Flood Fill
+_733. Flood Fill
 
 # Febraury
 
