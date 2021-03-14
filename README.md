@@ -15,6 +15,10 @@ _394. Decode String**
 
 _733. Flood Fill
 
+_542. 01 Matrix
+
+_841. Keys and Rooms
+
 # Febraury
 
 ## Other Practices
