@@ -23,6 +23,10 @@ _841. Keys and Rooms
 
 933. Number of Recent Calls
 
+## Dynamic Programming
+
+121. Best Time to Buy and Sell Stock **
+
 # Febraury
 
 ## Other Practices
