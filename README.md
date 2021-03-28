@@ -27,6 +27,12 @@ _841. Keys and Rooms
 
 121. Best Time to Buy and Sell Stock **
 
+## Greedy
+
+122. Best Time to Buy and Sell Stock II
+
+_1221. Split a String in Balanced Strings
+
 # Febraury
 
 ## Other Practices
