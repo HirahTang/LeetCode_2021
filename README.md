@@ -5,6 +5,12 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 # April
 
+## Array
+
+867. Transpose Matrix
+
+_933. Squred of a Sorted Array
+
 ## Greedy
 
 134. Gas Station
