@@ -9,7 +9,7 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 867. Transpose Matrix
 
-_933. Squred of a Sorted Array
+_933. Squred of a Sorted Array - Two Pointers & Binary Search
 
 _209. Minimum Size Subarray Sum
 
