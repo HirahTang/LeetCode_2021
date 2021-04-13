@@ -11,6 +11,10 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 _933. Squred of a Sorted Array
 
+_209. Minimum Size Subarray Sum
+
+_73. Set Matrix Zeroes
+
 ## Greedy
 
 134. Gas Station
