@@ -9,6 +9,8 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 104. Maximum Depth of Binary Tree
 
+_101. Symmetric Tree *** 
+
 ## Array
 
 867. Transpose Matrix
