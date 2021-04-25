@@ -5,6 +5,10 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 # April
 
+## String
+
+6. Longest Substring Without Repeating
+
 ## Binary Tree
 
 104. Maximum Depth of Binary Tree
@@ -23,7 +27,7 @@ _73. Set Matrix Zeroes
 
 _15. Three Sum
 
-_16. 3Sum Closest
+_16. 3Sum Closest**
 
 ## Greedy
 
