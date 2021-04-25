@@ -7,7 +7,7 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 ## String
 
-6. Longest Substring Without Repeating
+6. Longest Substring Without Repeating **
 
 ## Binary Tree
 
