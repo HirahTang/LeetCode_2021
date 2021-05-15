@@ -9,6 +9,10 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 1047. Remove All Adjacant Duplicates
 
+## Sorting
+
+242. Valid Anagram
+
 # April
 
 ## Math
