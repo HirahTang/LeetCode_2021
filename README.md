@@ -11,6 +11,8 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 剑指offer 53 - II 0～n-1中缺失的数字
 
+33. Search in Rotated Sorted Array
+
 ## Queue
 
 1047. Remove All Adjacant Duplicates
