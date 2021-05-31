@@ -13,6 +13,8 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 33. Search in Rotated Sorted Array
 
+_74. Search a 2D Matrix
+
 ## Queue
 
 1047. Remove All Adjacant Duplicates
