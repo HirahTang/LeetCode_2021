@@ -3,6 +3,12 @@ All my practices on LeetCode, during the year of 2021
 
 In January, I start the year of coding from practices on Queue & Stack, Breadth First Searching & Depth First Searching
 
+# June
+
+## Dynamic Programming
+
+300. Longest Increase Subsequence (Dynamic Programming + Binary Search to reach an O(n*log(n))) time complexity
+
 # May
 
 ## Binary Search
