@@ -5,9 +5,15 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 # June
 
+## Merge Sort
+
+88. Merge Sorted Array
+
 ## Dynamic Programming
 
 300. Longest Increase Subsequence (Dynamic Programming + Binary Search to reach an O(n*log(n))) time complexity
+
+No53. Maximum Subarray
 
 # May
 
