@@ -8,6 +8,8 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 106. Construct Binary Tree from Inorder and Postorder Traversal
 
+No105. Construct Binary Tree From Preorder and Inorder Traversal
+
 # June
 
 ## Merge Sort
