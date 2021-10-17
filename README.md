@@ -10,6 +10,8 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 No105. Construct Binary Tree From Preorder and Inorder Traversal
 
+No116。 PopulatingNextRightPointersinEachNode
+
 # June
 
 ## Merge Sort
