@@ -2,6 +2,13 @@
 All my practices on LeetCode, during the year of 2021 [Leetcode Profile](https://leetcode.com/HirahTang/)
 
 In January, I start the year of coding from practices on Queue & Stack, Breadth First Searching & Depth First Searching
+
+# November
+
+## Binary Tree
+
+297. Serialize and Deserialize Binary Tree
+
 # October
 
 ## Binary Tree
