@@ -9,6 +9,8 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 297. Serialize and Deserialize Binary Tree
 
+No.344 Reverse String
+
 # October
 
 ## Binary Tree
