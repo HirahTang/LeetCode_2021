@@ -11,7 +11,7 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 ## Recursion
 
-344 Reverse String
+344. Reverse String
 
 # October
 
