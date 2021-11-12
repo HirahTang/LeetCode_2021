@@ -5,9 +5,15 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 # November
 
+## Linked List
+
+707. Design Linked List
+
 ## Dynamic Programming
 
 70. Climbing Stairs
+
+No121. Best Time to Buy and Sell Stock
 
 ## Binary Tree
 
