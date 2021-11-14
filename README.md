@@ -17,6 +17,8 @@ No121. Best Time to Buy and Sell Stock
 
 No198. House Robber
 
+No55. Jump Game
+
 ## Binary Tree
 
 297. Serialize and Deserialize Binary Tree
