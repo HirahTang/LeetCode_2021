@@ -9,6 +9,8 @@ In January, I start the year of coding from practices on Queue & Stack, Breadth 
 
 707. Design Linked List
 
+No141. Linked List Cycle
+
 ## Dynamic Programming
 
 70. Climbing Stairs
