@@ -13,6 +13,8 @@ No141. Linked List Cycle
 
 No142. Linked List Cycle II - Floyd's Algorithm (Two Pointers)
 
+No160. Intersection of Two Linked Lists
+
 ## Dynamic Programming
 
 70. Climbing Stairs
