@@ -3,6 +3,12 @@ All my practices on LeetCode, during the year of 2021 [Leetcode Profile](https:/
 
 In January, I start the year of coding from practices on Queue & Stack, Breadth First Searching & Depth First Searching
 
+# December
+
+## Linked List
+
+203. Remove Linked List Elements
+
 # November
 
 ## Linked List
